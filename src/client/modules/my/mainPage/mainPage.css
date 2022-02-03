@@ -1,0 +1,84 @@
+.slds-gutters {
+    margin-top: 20px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    display: flex;  
+    justify-content: center;
+}
+
+
+/* .slds-grid {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+
+.col1 {
+    color: rgb(33, 29, 39); 
+    max-width: 250px;
+    width: 50%;
+}
+.col2 {
+    color: rgb(33, 29, 39); 
+    max-width: 250px;
+    width: 50%;
+
+}
+.col3 {
+    color: rgb(33, 29, 39); 
+    max-width: 250px;
+    width: 50%;
+}
+
+.col4 {
+    color: rgb(33, 29, 39); 
+    max-width: 170px;
+    width: 50%;
+}
+.slds-card {                
+    background: rgb(57, 62, 65, 0.6);
+    color: #000000;
+}
+
+.discs {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 125px;
+}
+
+.disc-name {
+    font-family: 'Helvetica';
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    text-align: center;
+}
+
+.disc-stats {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.disc-price {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.column-title {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    text-align: center;
+}
+
+.slds-button {
+    color: black;
+    background-color: rgb(119, 119, 119);
+    justify-content: center;
+}
+
+.cart-logo {
+    width: 100px;
+    height: 100px;
+}

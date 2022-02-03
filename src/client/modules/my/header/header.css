@@ -1,4 +1,22 @@
-.slds-builder-header_container {
+.slds-page-header {
     position: sticky;
-    color:rgb(46, 173, 20);
+    color: #F6F7EB;
+    background-image:url("/resources/abstract2.jpg");
+    background-size: 100%;
+
 }
+
+.header-logo {
+    /* display: inline-block; */
+    height: 150px;
+    /* justify-content: center; */
+}
+
+.h1 {
+    display: grid;
+    justify-content: right;
+}
+
+
+
+
