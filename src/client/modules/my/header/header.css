@@ -7,9 +7,7 @@
 }
 
 .header-logo {
-    /* display: inline-block; */
-    height: 150px;
-    /* justify-content: center; */
+    height: 135px;
 }
 
 .h1 {
@@ -17,6 +15,13 @@
     justify-content: right;
 }
 
+.cart-logo {
+    height: 50px;
+}
 
-
+.slds-media__body {
+    align-content: right;
+    margin-right: 0;
+    margin-left: auto;
+}
 
